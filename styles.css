@@ -16,14 +16,10 @@ a {
   }
 
 li {
-    color: orange;
+    color: black;
     padding-bottom: 5px;
 }
 
 h3 {
     font-size: 23pt;
-}
-
-ul {
-    font-size: 16pt;
 }
